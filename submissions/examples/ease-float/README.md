@@ -2,7 +2,7 @@
 
 ## What does this do?
 
-Creates a continuous, gentle floating motion that smoothly moves elements up and down using CSS animations.
+Provides a smooth, continuous floating effect that gently moves elements up and down using CSS keyframe animations.
 
 ## How is it used?
 
@@ -12,7 +12,7 @@ Creates a continuous, gentle floating motion that smoothly moves elements up and
 </div>
 ```
 
-Optional customization:
+### Optional Customization
 
 ```css
 :root {
@@ -23,4 +23,4 @@ Optional customization:
 
 ## Why is it useful?
 
-Floating animations help draw subtle attention to icons, cards, illustrations, and call-to-action elements without being distracting. The animation is lightweight, reusable, and aligns with EaseMotion CSS's animation-first philosophy.
+The floating animation adds subtle visual emphasis to UI elements such as cards, icons, illustrations, and call-to-action buttons. It enhances user engagement without being distracting, while remaining lightweight, customizable, and reusable across different interface designs.
